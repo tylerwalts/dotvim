@@ -30,10 +30,6 @@
 	path = bundle/autotag
 	url = https://github.com/vim-scripts/AutoTag.git
   update = rebase
-[submodule "bundle/PIV"]
-	path = bundle/PIV
-	url = git@github.com:duellj/PIV.git
-  update = rebase
 [submodule "bundle/gundo"]
 	path = bundle/gundo
 	url = http://github.com/sjl/gundo.vim.git
@@ -58,10 +54,6 @@
 	path = bundle/repeat
 	url = https://github.com/tpope/vim-repeat.git
   update = rebase
-[submodule "bundle/syntastic"]
-	path = bundle/syntastic
-	url = git@github.com:duellj/syntastic.git
-  update = rebase
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = https://github.com/majutsushi/tagbar.git
@@ -73,10 +65,6 @@
 [submodule "bundle/pathogen"]
 	path = bundle/pathogen
 	url = https://github.com/tpope/vim-pathogen.git
-  update = rebase
-[submodule "bundle/ini"]
-	path = bundle/ini
-	url = git@github.com:duellj/ini-syntax-definition.git
   update = rebase
 [submodule "bundle/commentary"]
 	path = bundle/commentary
@@ -106,21 +94,13 @@
 	path = bundle/powerline
 	url = https://github.com/Lokaltog/vim-powerline
   update = rebase
-[submodule "bundle/ultisnips"]
-	path = bundle/ultisnips
-	url = git@github.com:duellj/ultisnips.git
-  update = rebase
-[submodule "bundle/jellybeans"]
-	path = bundle/jellybeans
-	url = git@github.com:duellj/jellybeans.vim.git
-  update = rebase
 [submodule "bundle/smartinput"]
 	path = bundle/smartinput
 	url = https://github.com/kana/vim-smartinput.git
   update = rebase
 [submodule "bundle/sessions"]
 	path = bundle/sessions
-	url = git@github.com:duellj/vim-sessions.git
+	url = https://github.com/duellj/vim-sessions.git
   update = rebase
 [submodule "bundle/gitv"]
 	path = bundle/gitv
@@ -148,9 +128,6 @@
 [submodule "bundle/solarized"]
 	path = bundle/solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
-[submodule "bundle/vitality"]
-	path = bundle/vitality
-	url = https://github.com/sjl/vitality.vim.git
 [submodule "vim-pathogen"]
 	path = vim-pathogen
-	url = git://github.com/tpope/vim-pathogen.git
+	url = https://github.com/tpope/vim-pathogen.git
