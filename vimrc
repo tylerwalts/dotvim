@@ -63,9 +63,9 @@ let g:solarized_termcolors=256
 
 " Tabs, spaces {{{
 
-set shiftwidth=2            " Use 2 spaces for (auto)indent
+set shiftwidth=4            " Use 2 spaces for (auto)indent
 set shiftround              " Round indent to multiple of 'shiftwidth' for > and < commands
-set tabstop=2               " Use 2 spaces for <Tab> and :retab
+set tabstop=4               " Use 2 spaces for <Tab> and :retab
 set expandtab               " expand tabs to spaces
 set wrap                    " Wrap long lines
 set textwidth=80            " Wrap at 80 characters
